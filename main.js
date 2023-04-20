@@ -38,4 +38,4 @@
     }, 0);
 })();
 
-console.log("JS script BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded. See more details at https://github.com/SynRGB/BiliBili-PassInteractiveVideo");
+console.log("JS script BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded. See more details at https://github.com/SynRGB/BiliBili-EasyCopy");
