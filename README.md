@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/SynRGB/BiliBili-EasyCopy/raw/main/%23README/icon/256.png" width="20%"/>
-    <h1>BiliBili-去文本复制水印 <code>v1.0</code></h1>
+    <h1>BiliBili-去文本复制水印 <code>v1.1</code></h1>
 	<p>
         <a href='https://github.com/SynRGB/BiliBili-EasyCopy'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
 	    <a href='https://greasyfork.org/zh-CN/scripts/464155-bilibili-easycopy'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
@@ -16,3 +16,7 @@
 ```
 
 这个脚本可以帮你去除这些水印。复制的是啥就是啥。
+
+## 贡献者
+
+- @ShenHongFei 在 Issue #2 中提供了更简洁的实现方式
