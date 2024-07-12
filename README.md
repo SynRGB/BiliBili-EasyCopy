@@ -19,4 +19,4 @@
 
 ## 贡献者
 
-- @ShenHongFei 在 Issue #2 中提供了更简洁的实现方式
+- [GitHub@ShenHongFei](https://github.com/ShenHongFei) 在 Issue [#2](https://github.com/SynRGB/BiliBili-EasyCopy/issues/2) 中提供了更简洁的实现方式
