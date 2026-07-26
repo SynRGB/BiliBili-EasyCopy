@@ -14,8 +14,9 @@
 // @match               http*://www.bilibili.com/*
 // @license             Mozilla Public License 2.0; MPL-2.0
 // @charset		        UTF-8
-// @homepageURL         https://github.com/SynRGB/BiliBili-EasyCopy
-// @contributionURL     https://github.com/SynRGB/BiliBili-EasyCopy
+// @homepageURL         https://github.com/MehverSynRGB/BiliBili-EasyCopy
+// @contributionURL     https://github.com/MehverSynRGB/BiliBili-EasyCopy
+// @copyright           Copyright (c) 2022 Mehver (https://github.com/Mehver). All rights reserved.
 // ==/UserScript==
 
 (function () {
@@ -30,4 +31,4 @@
     );
 })();
 
-console.log("Userscript BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded. See more details at https://github.com/SynRGB/BiliBili-EasyCopy");
+console.log("Userscript BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded. See more details at https://github.com/MehverSynRGB/BiliBili-EasyCopy");
