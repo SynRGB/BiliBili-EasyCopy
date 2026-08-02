@@ -31,4 +31,4 @@
     );
 })();
 
-console.log("Userscript BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded. See more details at https://github.com/MehverSynRGB/BiliBili-EasyCopy");
+console.log("Script BiliBili-EasyCopy (BiliBili-去文本复制水印) loaded successfully. https://github.com/MehverSynRGB/BiliBili-EasyCopy");
